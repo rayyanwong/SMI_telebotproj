@@ -10,4 +10,4 @@ Parade state - Statuses of everyone in camp. Strength of the camp and reasons fo
 
 Excel sheet can show attendance of each person in camp throughout 3 months - can be copied and pasted into google sheets which is used by the superiors to track individual soldier's performance.
 
-#PROJECT IS NO LONGER MAINTAINED
+# PROJECT IS NO LONGER MAINTAINED
