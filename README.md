@@ -1,4 +1,4 @@
-# SMI_telebotproj
+# SMI_telebotproj [June 2023]
 
 First telegram bot project - done within 72 hours for my National Service SCS Recon Camp.
 
